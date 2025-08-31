@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world 👋
 
 <!--
 **Azim32180/Azim32180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
