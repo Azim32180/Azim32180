@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello world!</h1>
 
-I'm Azim 👋, a recent graduate of [Marcy Lab School](https://marcylabschool.org/) and a full-stack engineer. I love creating meaningful applications, learning new technologies, and contributing to projects that deliver solutions to real world problems. When I'm not coding, you'll probably find me jogging, swimming or cooking somethnig yummie 😋
+I'm Azim 👋, a recent graduate of [Marcy Lab School](https://marcylabschool.org/) and a full-stack engineer. I love creating meaningful applications, learning new technologies, and contributing to projects that deliver solutions to real world problems. When I'm not coding, you'll probably find me jogging, swimming or cooking something yummie 😋
 
 
 <h3 align="left">Languages & Frameworks:</h3>
