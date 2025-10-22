@@ -12,7 +12,7 @@ I'm Azim 👋, a recent graduate of [Marcy Lab School](https://marcylabschool.or
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,bash,postman,docker,figma&theme=dark)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azim32180&" alt="azim32180" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azim32180&" alt="azim32180" /></p> -->
 
 
 <h3 align="left">Let's connect!</h3>
